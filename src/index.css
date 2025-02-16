@@ -245,7 +245,7 @@ pokemon-info {
   border: none;
   border-radius : 20px ;
   margin-top : 90px ;
-  position: fixed;
+  position: absolute;
   top: 20px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   background: linear-gradient(135deg, #fceabb, #f8b500);
